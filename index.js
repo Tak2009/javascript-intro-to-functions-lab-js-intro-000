@@ -10,6 +10,7 @@ function logShout(string){
 function logWhisper(string){
   console.log(string.toLowerCase());
 }
+<<<<<<< HEAD
 function sayHiToGrandma(string){var casecase = string;
   if(string.toLowerCase() === casecase){
     return "I can't hear you!";
@@ -20,3 +21,5 @@ function sayHiToGrandma(string){var casecase = string;
     } else {"";
   }
 }
+=======
+>>>>>>> e893c527c5565788aa4942f1cbdb6c4fcdb4aa84
